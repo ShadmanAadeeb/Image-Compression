@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989731139999",
+    "firebase_url": "https://image-compression-94b97.firebaseio.com",
+    "project_id": "image-compression-94b97",
+    "storage_bucket": "image-compression-94b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989731139999:android:f8bdfaf1cdc8415e9ecdaa",
+        "android_client_info": {
+          "package_name": "com.example.imagecompression"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989731139999-m5i6or6vdc6s7rmf7fq1456n8v6qlj9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagecompression",
+            "certificate_hash": "1d41367970e2176f7a1f508dceca6c853e6423c2"
+          }
+        },
+        {
+          "client_id": "989731139999-ft3gj4tj4jfs203a8oqm5p38lifcms6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8kKFw5-GMiOuaeAg39OfIVHoSMT77r5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989731139999-ft3gj4tj4jfs203a8oqm5p38lifcms6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
